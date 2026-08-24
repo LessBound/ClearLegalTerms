@@ -1,7 +1,3 @@
-<!-- DRAFT for founder + counsel review. NOT published. On approval: commit to
-LessBound/ClearLegalTerms as DISCERNA_TERMS_OF_SERVICE.md (web UI, like the privacy
-policy), then flip kDiscernaTermsPublished=true in the app for the next build. -->
-
 # Discerna — Terms of Service
 
 **Effective date:** 24 August 2026
