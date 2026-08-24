@@ -4,7 +4,7 @@ policy), then flip kDiscernaTermsPublished=true in the app for the next build. -
 
 # Discerna — Terms of Service
 
-**Effective date:** [set on publication]
+**Effective date:** 24 August 2026
 **Version:** 1.0
 **Publisher:** Less Bound Pte. Ltd., 68 Circular Road, #02-01, Singapore 049422
 **Contact:** [contact@less-bound.com](mailto:contact@less-bound.com)
