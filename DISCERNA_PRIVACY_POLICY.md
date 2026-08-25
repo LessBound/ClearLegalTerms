@@ -1,7 +1,7 @@
 # Discerna — Privacy Policy
 
-**Effective date:** 24 August 2026
-**Version:** 1.0
+**Effective date:** 26 August 2026
+**Version:** 1.1
 **Publisher:** Less Bound Pte. Ltd., 68 Circular Road, #02-01, Singapore 049422
 **Contact:** [contact@less-bound.com](mailto:contact@less-bound.com)
 
@@ -38,8 +38,10 @@ Two features send data to our server, and only when you tap them:
 
 - **Second Look** sends the text of a single ingredient name so our server can research it
   and return a sourced answer.
-- **Fresh Eyes** sends one photo of a label so our server can read it in full. The photo is
-  processed and then discarded — it is not stored.
+- **Fresh Eyes** sends one photo of a label so our server can read it in full. Our server
+  processes the photo and then discards it — we never store your photos on our servers. A
+  copy of the photo stays on your own phone as part of your recent-scans list (see §6), and
+  you can delete it at any time.
 
 Both features show what will be sent before you confirm. If you never use them, nothing is
 ever transmitted.
@@ -53,10 +55,17 @@ no account to sign up for.
 
 ## 6. What we keep
 
-Ingredient answers produced by the server may be cached so that every Discerna user
-benefits from them. These cached entries describe ingredients, not people, and are not
-linked to you. Usage counters tied to the anonymous identifier reset daily. Photos are
-never retained.
+**On your phone.** Discerna keeps your recent scans on the device so you can look back at
+them, and so you can ask for a Second Look or Fresh Eyes on a scan you have already done.
+Each saved scan includes the photo you took and the result the app showed. Older scans are
+removed automatically once the list is full. Nothing in this list is uploaded, and no one
+else can see it. You can erase all of it at any time with **Clear scan data** in the app's
+settings, and deleting the app removes it too.
+
+**On our servers.** Ingredient answers produced by the server may be cached so that every
+Discerna user benefits from them. These cached entries describe ingredients, not people, and
+are not linked to you. Usage counters tied to the anonymous identifier reset daily. **Photos
+are never retained on our servers.**
 
 ## 7. Service providers
 
@@ -67,7 +76,9 @@ marketing.
 
 ## 8. Your choices and rights
 
-The assist features are optional; the core app is fully usable without them. Deleting the
+The assist features are optional; the core app is fully usable without them. 
+You can erase everything Discerna has saved on your phone — including the photos in your
+recent-scans list — with **Clear scan data** in settings, without deleting the app. Deleting the
 app removes all data stored on your device. If you have used the assist features and want
 the usage records tied to your anonymous identifier removed, contact us at the address
 above and we will delete them; note that we usually cannot connect an identifier to you
