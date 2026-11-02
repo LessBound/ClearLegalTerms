@@ -1,7 +1,7 @@
 # Discerna — Privacy Policy
 
-**Effective date:** 3 September 2026
-**Version:** 1.2
+**Effective date:** 2 November 2026
+**Version:** 1.3 (change from 1.2: section 6 now discloses that the words a scan could not identify are sent, as text only, when the setting is on)
 **Publisher:** Less Bound Pte. Ltd., 68 Circular Road, #02-01, Singapore 049422
 **Contact:** [contact@less-bound.com](mailto:contact@less-bound.com)
 
@@ -59,12 +59,14 @@ Discerna is only as good as the ingredients it recognises. When a scan meets a w
 not hold, that scan is the only evidence the gap exists.
 
 **This is off unless you turn it on.** If you turn it on, the app sends a short summary of
-how a scan went — never what the scan said.
+how a scan went — never the photograph, and never the full ingredient list.
 
 **What a summary contains**
 
 - how many ingredients were read, how many we could not identify, and how many were flagged
   for a restriction you have selected
+- **the words on the label that we could not identify, exactly as printed — up to forty short
+  words per scan, and never the rest of the ingredient list**
 - the answer shown for each restriction you have selected, and how confident the app was
 - which text reader was used, and its version
 - which script the label was written in, and whether you scanned again afterwards
@@ -73,7 +75,8 @@ how a scan went — never what the scan said.
 
 **What a summary never contains**
 
-- the ingredients themselves, or any other text from the label
+- the ingredients we did recognise, the rest of the ingredient list, or any other text from
+  the label beyond the unidentified words above
 - the photograph, or any part of it
 - your name, email address, phone number, contacts or precise location
 - your IP address
@@ -104,7 +107,10 @@ to decline, and declining changes nothing else about how the app works.
 **How it behaves.** Summaries are held on your device and sent together, later. Scanning is
 unaffected and continues to work with no connection at all.
 
-**Why we ask.** The restrictions Discerna checks are matters of faith and of ethics. What we
+**Why we ask.** The restrictions Discerna checks are matters of faith and of ethics. The
+unidentified words are what let us add missing spellings and languages to the database; they
+are matched to ingredients we already hold, and a match is never used to make an answer more
+permissive without a person checking it. What we
 learn from these summaries is used to widen the ingredient database and to show us where
 labels are hard to read — which improves Discerna for the people who keep the same
 restriction you do. We do not sell these summaries, and they are never used to change how a
